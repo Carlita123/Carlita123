@@ -4,4 +4,4 @@
 - 📫 How to reach me  Email: carloshmego@hotmail.com 
 ***
 Languages and Tools:
-- Android, aws, Azure, Blender, CSS3, Figma, Firebase, HTML5, Illustrator, Java, Javascript, Mysql, Nodejs, Photoshop, PHP, Python, React, React-native, Swift,  Unity 
+- Android, AWS, Azure, Blender, CSS3, Figma, Firebase, HTML5, Illustrator, Java, Javascript, Mysql, Nodejs, Photoshop, PHP, Python, React, React-native, Swift,  Unity 
